@@ -1,0 +1,1 @@
+This contais the assignments from Computer Graphics 2014.1, done in WebGL with Three.js
