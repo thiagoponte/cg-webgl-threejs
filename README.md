@@ -12,3 +12,5 @@ It must be built with vertices and faces.
 *In part 3, the fingers have all 3 phalanges. The manipulation is done through a GUI instead of keyboard.
 
 *In part 4, texture and lighting is added. This is the complete program.
+
+*To see it in action, you need a http server running local.
